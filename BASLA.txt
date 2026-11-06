@@ -1,0 +1,4 @@
+REVIVAL OFFLINE - TEMIZ UYGULAMA DAGITIMI
+Revival-Offline.exe ile acin. Tum klasoru birlikte tasiyin.
+Oyun dahil degil; Kurulu oyunu sec ile kendi BinaryTrU.exe dosyanizi gosterin.
+Python kurulumu gerekmez. Windows .NET Framework4 gereklidir.
